@@ -15,7 +15,7 @@ Graphical improvements mod for Megadimension Neptunia VII.
  If you wish to tune it yourself - open the nep.ini file with any text editor. If needed, right-click on it and go to "Open With".\
  All the options have self-explanatory names, mirroring the list of features, and have comments explaining their effect and suggested values.
 ## Notes:
-Tested only with the Steam version. GoG might or might not be supported - feel free to find it out yourself and report back.
+Tested only with the Steam version. GoG might or might not be supported - feel free to find it out yourself and report back.\
 If you wish to partake in the delightful misery of editing the source code, there are two .cmd files set up to assemble the project:
 - build\_ms.cmd - Assumes installed Visual Studio 2019 and uses MS assembler and linker. You can edit the path to *vcvars32.bat* inside if you have a different version of Visual Studio or MSBuild.
 - build\_uasm\_polink.cmd - Uses [UASM](http://www.terraspace.co.uk/uasm.html) assembler and polink from [MASM32](https://masm32.com). Produces smaller binaries, which is nice and cool and recommended.
