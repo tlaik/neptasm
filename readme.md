@@ -11,8 +11,8 @@ Graphical improvements mod for Megadimension Neptunia VII.
  2. Extract both files inside, dinput8.dll and nep.ini into the game's base folder.
      - You can find the game folder by right-clicking on your Nep game in Steam library, choosing "Properties", going to "Local files" tab and clicking "Browse".
 ## Configure:
- Default configuration already provides all the improvements, including unlocked framerate and 2.0x resolution.
- If you wish to tune it yourself - open the nep.ini file with any text editor. If needed, right-click on it and go to "Open With".
+ Default configuration already provides all the improvements, including unlocked framerate and 2.0x resolution.\
+ If you wish to tune it yourself - open the nep.ini file with any text editor. If needed, right-click on it and go to "Open With".\
  All the options have self-explanatory names, mirroring the list of features, and have comments explaining their effect and suggested values.
 ## Notes:
 Tested only with the Steam version. GoG might or might not be supported - feel free to find it out yourself and report back.
