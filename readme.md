@@ -23,10 +23,12 @@ Steam guide is also available [here](https://steamcommunity.com/sharedfiles/file
 
 ## Configure:
  Default configuration already provides all the improvements, including unlocked framerate, camera angles and 2.0x resolution. Default screen/window size is 1920x1080.\
+ 
  If you wish to tune it yourself - open the nep.ini file with any text editor. If needed, right-click on it and go to "Open With".\
+ 
  All the options have self-explanatory names, mirroring the list of features, and have comments explaining their effect and suggested values.
 
-## Ultrawide examples:
+## Ultrawide examples (Partial support):
 ![main](examples/uw_menu.jpg)
 
 ![main](examples/uw_ingame.jpg)
