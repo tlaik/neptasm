@@ -1,0 +1,6 @@
+build/dinput8.dll
+Releases/
+examples/src/
+build_dev.cmd
+build_ms.cmd
+Neptasm.map
